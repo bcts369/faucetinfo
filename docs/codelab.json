@@ -1,15 +1,15 @@
 {
   "environment": "web",
-  "source": "1OxmJJzuYJnNFvrRTEGa-G3sanoaFQ3vH_zPLQjzQNLc",
+  "source": "1Ck5pSYlfZB94UPf8RzcUj5Qwihgo340_eFNpRzZPNnY",
   "format": "html",
   "prefix": "https://storage.googleapis.com",
   "mainga": "UA-49880327-14",
-  "updated": "2019-03-18T14:20:39Z",
-  "id": "tutorial-dist",
+  "updated": "2019-03-19T08:23:21Z",
+  "id": "docs",
   "duration": 0,
-  "title": "Codelabを利用した教材の作り方",
+  "title": "無料で暗号資産をもらって増やす方法",
   "author": "bcts369",
-  "summary": "Codelabを利用した教材の作り方を簡単に説明します。",
+  "summary": "無料で暗号資産をもらって増やす方法",
   "theme": "web",
   "status": [
     "draft"
@@ -18,10 +18,10 @@
     "Web"
   ],
   "tags": [
-    "codelab",
-    "learning",
-    "tutorial"
+    "bitcoin",
+    "crypto currency",
+    "litecoin"
   ],
-  "feedback": "https://github.com/bcts369dojo/info/issues",
-  "url": "tutorial-dist"
+  "feedback": "https://github.com/googlecodelabs/your-first-pwapp/issues",
+  "url": "docs"
 }
