@@ -4,6 +4,10 @@
 
 生成されたドキュメントは[こちら](https://bcts369.github.io/faucetinfo)で閲覧できます。
 
+```shell
+claat export 1Ck5pSYlfZB94UPf8RzcUj5Qwihgo340_eFNpRzZPNnY
+```
+
 ## 生成元
 
 Codelabフォーマットのドキュメント（要アクセス権)
