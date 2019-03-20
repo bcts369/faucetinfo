@@ -4,7 +4,7 @@
   "format": "html",
   "prefix": "https://storage.googleapis.com",
   "mainga": "UA-49880327-14",
-  "updated": "2019-03-20T19:02:18Z",
+  "updated": "2019-03-20T20:38:57Z",
   "id": "docs",
   "duration": 0,
   "title": "無料で暗号資産をもらって増やす方法",
@@ -28,6 +28,6 @@
     "仮想通貨",
     "暗号資産"
   ],
-  "feedback": "https://github.com/googlecodelabs/your-first-pwapp/issues",
+  "feedback": "https://github.com/bcts369/faucetinfo/issues",
   "url": "docs"
 }
