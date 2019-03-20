@@ -4,7 +4,7 @@
   "format": "html",
   "prefix": "https://storage.googleapis.com",
   "mainga": "UA-49880327-14",
-  "updated": "2019-03-19T08:23:21Z",
+  "updated": "2019-03-20T12:42:36Z",
   "id": "docs",
   "duration": 0,
   "title": "無料で暗号資産をもらって増やす方法",
@@ -19,8 +19,14 @@
   ],
   "tags": [
     "bitcoin",
+    "bitcoin cash",
+    "crypto assets",
     "crypto currency",
-    "litecoin"
+    "dash",
+    "dogecoin",
+    "litecoin",
+    "仮想通貨",
+    "暗号資産"
   ],
   "feedback": "https://github.com/googlecodelabs/your-first-pwapp/issues",
   "url": "docs"
